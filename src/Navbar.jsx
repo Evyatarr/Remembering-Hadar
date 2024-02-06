@@ -34,10 +34,15 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" href="#">
+                כותבים להדר
+              </a>
+            </li>
+            {/* <li className="nav-item">
               <a className="nav-link disabled" aria-disabled="true">
                 Disabled
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
